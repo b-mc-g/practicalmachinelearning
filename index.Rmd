@@ -16,7 +16,7 @@ The predicted results for the testing data set are as follows. These are then en
 
                            B A B A A E D B A A B C B A E E A B B B
 
-Not all the the R code used for this exercise has been included in the Html output file. It can be found in the index.Rmd file here, https://github.com/b-mc-g/practicalmachinelearning
+Not all the the R code used for this exercise has been included in the Html output file. It can be found in the index.Rmd file here, https://github.com/b-mc-g/practicalmachinelearning/tree/gh-pages
 
 ## Introduction
 The project description from the course is repeated here for convenience.
